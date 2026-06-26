@@ -77,6 +77,10 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.executed.ipynb
+
+# Local virtual environment
+.venv/
 
 # IPython
 profile_default/

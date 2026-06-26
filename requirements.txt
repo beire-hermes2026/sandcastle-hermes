@@ -1,0 +1,7 @@
+pandas
+requests
+holidays
+numpy
+nbformat
+nbconvert
+ipykernel
